@@ -1,3 +1,6 @@
+  
+.idea
+venv
+/postgres-data/*
 
-# Project exclude paths
-/venv/
+!.idea
