@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e63ecc72-8dd7-44a5-a0f8-9ac739f17ec9" name="Default Changelist" comment="" />
+    <list default="true" id="e63ecc72-8dd7-44a5-a0f8-9ac739f17ec9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RandomNumGenerator/RNG_withoutseed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomNumGenerator/RNG_withseed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CollabStats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CollabStats.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583271346608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1583617987440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583617987440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,10 +166,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="59" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583269635579" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1583271423149">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1583617986434">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583271423149" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583617986434" />
     <state x="384" y="86" key="FileChooserDialogImpl" timestamp="1583269325878">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -169,10 +182,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="413" y="53" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1583268012731" />
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1583268839573">
+    <state x="85" y="38" key="MergeDialog" timestamp="1583336621683">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583268839573" />
+    <state x="85" y="38" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583336621683" />
+    <state x="318" y="40" key="MultipleFileMergeDialog" timestamp="1583336621699">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="318" y="40" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583336621699" />
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1583617996269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583617996269" />
     <state x="416" y="241" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583270217901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
