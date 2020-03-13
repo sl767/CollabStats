@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63ecc72-8dd7-44a5-a0f8-9ac739f17ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PopulationStatFunctions/cochransSampleSize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PopulationStatFunctions/confidenceIntervalForPopulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PopulationStatFunctions/confidenceIntervalForSample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +47,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats\Calculator" />
@@ -207,10 +207,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="318" y="40" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583336621699" />
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1583864601724">
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1584123829309">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583864601724" />
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584123829309" />
     <state x="312" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1584116753338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
