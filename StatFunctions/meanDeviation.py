@@ -1,6 +1,6 @@
 import numpy as np
 
-class Mean():
+class MeanDeviation():
     @staticmethod
     def mean(data):
         return np.mean(data)
