@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63ecc72-8dd7-44a5-a0f8-9ac739f17ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/calculator218.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_Calculator218.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathOperations/addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathOperations/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathOperations/exponent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathOperations/subtraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistics/Statistics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="covarandpoppro" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,12 +48,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats\Calculator" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
     </key>
   </component>
   <component name="RunManager">
@@ -221,10 +216,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="318" y="40" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583336621699" />
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1584130466987">
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1584126593860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584130466987" />
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584126593860" />
     <state x="312" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1584116753338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
