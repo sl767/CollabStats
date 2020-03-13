@@ -3,6 +3,7 @@ from numpy.random import seed
 from numpy.random import randint
 from Statistics.Statistics import Statistics
 
+
 class MyTestCase(unittest.TestCase):
     def setUp(self) -> None:
         seed(5)
@@ -11,6 +12,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_instantiate_calculator(self):
         self.assertIsInstance(self.statistics, Statistics)
+
 
 if __name__ == '__main__':
     unittest.main()

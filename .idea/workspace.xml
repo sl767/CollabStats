@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63ecc72-8dd7-44a5-a0f8-9ac739f17ec9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Statistics/Statistics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="tests" />
+        <entry key="$PROJECT_DIR$" value="covarandpoppro" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,12 +48,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
       <recent name="C:\Users\stacy\PycharmProjects\CollabStats\Calculator" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stacy\PycharmProjects\CollabStats" />
     </key>
   </component>
   <component name="RunManager">
@@ -159,14 +160,7 @@
       <option name="project" value="LOCAL" />
       <updated>1584126533847</updated>
     </task>
-    <task id="LOCAL-00009" summary="tasks: created test files for RNG and statistics">
-      <created>1584130095563</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1584130095563</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,8 +173,7 @@
     <MESSAGE value="task 1: created RNG pick num from list" />
     <MESSAGE value="task 1: created RNG pick num from list&#10;task 2: created RNG pick num from list with seed" />
     <MESSAGE value="tasks: created covariance and population proportion" />
-    <MESSAGE value="tasks: created test files for RNG and statistics" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks: created test files for RNG and statistics" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks: created covariance and population proportion" />
   </component>
   <component name="WindowStateProjectService">
     <state x="197" y="0" key="#Deployment" timestamp="1583270174206">
@@ -199,10 +192,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="59" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583269635579" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1584130094844">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1584126559725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584130094844" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584126559725" />
     <state x="384" y="86" key="FileChooserDialogImpl" timestamp="1583269325878">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -223,10 +216,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="318" y="40" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583336621699" />
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1584130205320">
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2" timestamp="1584126593860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584130205320" />
+    <state x="197" y="58" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584126593860" />
     <state x="312" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1584116753338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -235,10 +228,6 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="416" y="241" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1583270217901" />
-    <state x="477" y="38" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584130189804">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="477" y="38" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1584130189804" />
     <state x="341" y="126" key="git4idea.merge.GitPullDialog" timestamp="1583271357074">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
